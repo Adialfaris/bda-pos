@@ -12,7 +12,7 @@ Re-create pos
 
 ### Commandline
 ```
-[git clone https://github.com/Adialfaris/bda-pos.git]
+git clone https://github.com/Adialfaris/bda-pos.git
 ```
 ### Compile
 ```
